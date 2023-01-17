@@ -11,9 +11,22 @@
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
     </a>
 </div>
+<!-- <img src="https://komarev.com/ghpvc/?username=100rabhg&style=flat-square&color=blue" alt=""/> -->
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-Here are some ideas to get you started:
+### 👨‍💻: About Me :
+
+I am a Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Indore.
 
 - 🔭 I’m currently working on "minor project"
-- 🌱 I’m currently learning Java Advance & android development
-- 📫 How to reach me:
+- 🌱 Exploring Java Advance & android development
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  </div>
