@@ -24,7 +24,7 @@ I am a Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 🔭 I’m currently working on "minor project"
 - 🌱 Exploring Java Advance & android development
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhpatware/)
 
 <!-- ### :hammer_and_wrench: Languages and Tools :
 
