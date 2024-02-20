@@ -19,7 +19,7 @@
 I am Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Indore.
 
 - 🔭 I’m currently working in "Precious Infosystem".
-- 🌱 Expert in Angular, Rails and Ruby, JS, PL/SQL and JAVA.
+- 🌱 Expert in Rails and Ruby, JS, PL/SQL and JAVA.
 
 <!-- ### :hammer_and_wrench: Languages and Tools :
 
