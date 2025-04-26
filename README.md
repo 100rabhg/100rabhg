@@ -10,8 +10,8 @@
 ### 👨‍💻: About Me :
 I am Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Indore.
 
-- 🔭 I’m currently working in "Precious Infosystem".
-- 🌱 Expert in Rails and Ruby, JS, PL/SQL and JAVA.
+- 🔭 I’m currently working in "Codetech Infosystem".
+- 🌱 Expert in Rails and Ruby, JS, React, Next.js, GraphQL, TDD, BDD and PL/SQL .
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhpatware/)
 
 ### :fire: My Stats :
