@@ -16,5 +16,3 @@ I am Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=100rabhg&theme=github-dark)
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100rabhg&layout=compact&theme=dark)
